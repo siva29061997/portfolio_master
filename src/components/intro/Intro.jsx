@@ -33,8 +33,9 @@ export default function Intro() {
                 <FaGithub size={25} color="rgb(65, 201, 255)" />
                 <span style={{fontSize: "15px", color: "white", fontWeight: "bold"}}>Github</span>
             </button>
-            <button className="icon" onClick={() => window.open( '')}>
+            <button className="icon" onClick={() => window.open( `https://www.linkedin.com/in/siva-n-a57167250/`)}>
                 <FaLinkedin size={25} color="rgb(65, 201, 255)" />
+
                 <span style={{ fontSize: "15px", color: "white", fontWeight: "bold"}}>LinkedIn</span>
             </button>
             </div>

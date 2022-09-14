@@ -8,6 +8,7 @@ import {
   SiNodedotjs,
   SiExpress,
   SiMongodb,
+  SiAliexpress,
 } from "react-icons/si";
 import { IoLogoNpm, IoLogoGithub } from "react-icons/io";
 
@@ -100,7 +101,7 @@ export default function Works() {
                   style={{ backgroundColor: "rgb(148, 89, 21)" }}
                 >
                   HTMl
-                  <TiHtml5 color="orange" size={35} />
+                  <TiHtml5 color="#FFFFFF" size={35} />
                 </div>
                 <div
                   className="skill-cintainer"
@@ -114,7 +115,7 @@ export default function Works() {
                   style={{ backgroundColor: "rgb(133, 134, 38)", gap: "3px" }}
                 >
                   JavaScript
-                  <SiJavascript color="rgb(245, 221, 7)" size={25} />
+                  <SiJavascript color="#FFFFFF" size={25} />
                 </div>
                 <div
                   className="skill-cintainer"
@@ -136,6 +137,14 @@ export default function Works() {
                 >
                   Node
                   <SiNodedotjs color="#8f8f8f" size={30} />
+                </div>
+
+                <div
+                  className="skill-cintainer"
+                  style={{ backgroundColor: "rgb(0,128,0)", gap: "3px" }}
+                >
+                  Mongo Db
+                  <SiMongodb color="rgb(50,205,50)" size={30} />
                 </div>
                 
                 <div
