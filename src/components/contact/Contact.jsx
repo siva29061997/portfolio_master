@@ -26,7 +26,7 @@ export default function Contact() {
               <div className="round"><MdEmail className="mdl" size={40} color="rgb(65, 201, 255)" /></div>
               <p className="loca">E-Mail</p>
               <p className="sub" style={{ fontSize: "1rem", marginLeft: "4.5rem", textDecoration: "none" }}> 
-              <a style={{ textDecoration: "none", color: "#18d26e" }} href="mailto:thiru.c.cse@gmail.com"> siva29061997@gmail.com </a></p>
+              <a style={{ textDecoration: "none", color: "#18d26e" }} href="mailto:siva29061997@gmail.com"> siva29061997@gmail.com </a></p>
               </div>
             <div className="email">
               <div className="round"><FaLinkedin className="mdl" size={40} color="rgb(65, 201, 255)" /></div>
