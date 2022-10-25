@@ -245,14 +245,14 @@ export default function Testimonials() {
           <div className="btn-cont">
             <button
               class="btn"
-              onClick={() => window.open("backend")}
+              onClick={() => window.open("https://github.com/siva29061997/youtube_clone")}
             >
               Github <IoLogoGithub />
             </button>
             <button
               class="btn"
               onClick={() =>
-                window.open("view site")
+                window.open("http://127.0.0.1:5500/guvi01/youtub_copy/index.html#")
               }
             >
               View Site <IoMdOpen />
@@ -294,7 +294,7 @@ export default function Testimonials() {
               class="btn"
               onClick={() =>
                 window.open(
-                  "backend"
+                  "https://github.com/siva29061997/restcountries_weather/blob/main/index.html"
                 )
               }
             >
@@ -303,7 +303,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("view site")
+                window.open("http://127.0.0.1:5500/restcountries_weather/weather01/index.html")
               }
             >
               View Site <IoMdOpen />
