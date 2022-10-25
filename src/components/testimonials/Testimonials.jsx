@@ -286,7 +286,8 @@ export default function Testimonials() {
 
         <div class="container">
           <div class="banner-img4"></div>
-          <h1 class="name" style={{ color: "rgb(218, 181, 181)" }}>
+          <h1 class="name" style={{ color: "#87CEEB" }}>
+          
             Weather Tracker
           </h1>
           <div className="btn-cont">
