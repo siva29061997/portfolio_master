@@ -252,7 +252,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("http://127.0.0.1:5500/guvi01/youtub_copy/index.html#")
+                window.open("https://6357f6aafc1e4c7cc0823205--lovely-conkies-79e72c.netlify.app/")
               }
             >
               View Site <IoMdOpen />
@@ -303,7 +303,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("http://127.0.0.1:5500/restcountries_weather/weather01/index.html")
+                window.open("https://6357f7479df4037b556f1a3d--ubiquitous-salmiakki-f4c374.netlify.app/")
               }
             >
               View Site <IoMdOpen />
