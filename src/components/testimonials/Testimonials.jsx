@@ -17,7 +17,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("Frontend")
+                window.open("https://github.com/siva29061997/netflix_clone_frontend")
               }
             >
               Github FE <IoLogoGithub />
@@ -25,7 +25,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("view site")
+                window.open("https://incredible-hummingbird-4670ed.netlify.app")
               }
             >
               View Site <IoMdOpen />
@@ -33,7 +33,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("Backend")
+                window.open("https://github.com/siva29061997/netflix_clone_backend")
               }
             >
               Github BE <IoLogoGithub />
@@ -76,7 +76,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("Frontend")
+                window.open("https://github.com/siva29061997/E-commerce-frontent")
               }
             >
               Github FE <IoLogoGithub />
@@ -84,7 +84,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("")
+                window.open("https://stately-medovik-aea808.netlify.app/")
               }
             >
               View Site <IoMdOpen />
@@ -92,7 +92,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("Backend")
+                window.open("https://github.com/siva29061997/E-commerce-backent")
               }
             >
               Github BE <IoLogoGithub />
@@ -134,21 +134,21 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("Frontend")
+                window.open("https://github.com/siva29061997/blog-app-front")
               }
             >
               Github FE <IoLogoGithub />
             </button>
             <button
               class="btn"
-              onClick={() => window.open("view site")}
+              onClick={() => window.open("https://singular-gingersnap-47de01.netlify.app/")}
             >
               View Site <IoMdOpen />
             </button>
             <button
               class="btn"
               onClick={() =>
-                window.open("Backend")
+                window.open("https://github.com/siva29061997/blog-app-back")
               }
             >
               Github BE <IoLogoGithub />
@@ -184,35 +184,35 @@ export default function Testimonials() {
         <div class="container">
           <div class="banner-img6"></div>
           <h1 class="name" style={{ color: "rgba(255, 0, 0, 0.534)" }}>
-            V-Chat
+            G-mail
           </h1>
           <div className="btn-cont">
             <button
               class="btn"
               onClick={() =>
-                window.open("Frontend")
+                window.open("https://github.com/siva29061997/gmail-clone-frontend")
               }
             >
               Github FE <IoLogoGithub />
             </button>
             <button
               class="btn"
-              onClick={() => window.open("view site")}
+              onClick={() => window.open("https://fluffy-tanuki-77f3e1.netlify.app/")}
             >
               View Site <IoMdOpen />
             </button>
             <button
               class="btn"
               onClick={() =>
-                window.open("Backend")
+                window.open("https://github.com/siva29061997/gmail-clone-backend")
               }
             >
               Github BE <IoLogoGithub />
             </button>
           </div>
           <p class="description">
-            This is Fullstack MERN website made it as a V-Chat.<br></br>This
-            application is used to connect a VideoCall.
+            This is Fullstack MERN website made it as G-mail.<br></br>This
+            application is used to you can share anythink.
           </p>
           <p>
             <span
@@ -287,7 +287,7 @@ export default function Testimonials() {
         <div class="container">
           <div class="banner-img4"></div>
           <h1 class="name" style={{ color: "#87CEEB" }}>
-          
+
             Weather Tracker
           </h1>
           <div className="btn-cont">
@@ -295,7 +295,7 @@ export default function Testimonials() {
               class="btn"
               onClick={() =>
                 window.open(
-                  "https://github.com/siva29061997/restcountries_weather/blob/main/index.html"
+                  "https://github.com/siva29061997/restcountries_weather"
                 )
               }
             >
@@ -304,7 +304,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("https://6357f7479df4037b556f1a3d--ubiquitous-salmiakki-f4c374.netlify.app/")
+                window.open("https://ubiquitous-salmiakki-f4c374.netlify.app/")
               }
             >
               View Site <IoMdOpen />

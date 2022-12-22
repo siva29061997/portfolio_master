@@ -8,10 +8,12 @@
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
   color: #fff;
+
   @include mobile {
     font-size: 1rem;
   }
 }
+
 .project {
   font-size: 14px;
   font-weight: 500;
@@ -21,6 +23,7 @@
   text-transform: uppercase;
   color: #aaa;
   font-family: "Poppins", sans-serif;
+
   &::after {
     content: "";
     width: 120px;
@@ -29,6 +32,7 @@
     background: rgb(65, 201, 255);
     margin: 4px 10px;
   }
+
   @include mobile {
     font-size: 15px;
     margin: 0;
@@ -50,20 +54,23 @@
     text-transform: uppercase;
     font-family: "Poppins", sans-serif;
     color: #fff;
+
     @include mobile {
       font-size: 1rem;
     }
   }
+
   h3 {
     font-weight: 700;
     font-size: 26px;
     color: rgb(65, 201, 255);
     font-family: "Raleway", sans-serif;
+
     @include mobile {
       font-size: 15px;
     }
   }
-  
+
   .container {
     overflow: hidden;
     background-color: rgb(15, 15, 15);
@@ -73,7 +80,7 @@
     min-height: 370px;
     margin: 2rem;
   }
-  
+
   .banner-img {
     background-image: url(https://img.freepik.com/free-vector/online-shopping-banner-mobile-app-templates-concept-flat-design_1150-34865.jpg?w=740);
     height: 12rem;
@@ -82,45 +89,47 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
-  
+
   .name {
     font-weight: bold;
     font-size: 1.5rem;
     color: rgb(65, 201, 255);
   }
 
-  .btn-cont{
+  .btn-cont {
     justify-content: center;
     align-items: center;
     align-content: center;
     align-self: center;
 
-    
-  .btn {
-    border: none;
-    font-size: .9rem;
-    justify-content: center;
-    align-items: center;
-    padding: .1em;
-    margin: .5em;
-    padding: .2em;
-    cursor: pointer;
-    border-radius: 7px;
-    font-weight: bold;
-    color: white;
-    background-color: rgb(34, 34, 34);
+
+    .btn {
+      border: none;
+      font-size: .9rem;
+      justify-content: center;
+      align-items: center;
+      padding: .1em;
+      margin: .5em;
+      padding: .2em;
+      cursor: pointer;
+      border-radius: 7px;
+      font-weight: bold;
+      color: white;
+      background-color: rgb(34, 34, 34);
+    }
   }
-}
 
   .description {
     font-size: 1rem;
     padding: .1em;
     margin: .2rem;
     color: #fff;
+
     @include mobile {
       font-size: 0.5rem;
-    } 
+    }
   }
+
   .banner-img1 {
     background-image: url(https://img.freepik.com/free-vector/cinema-elements-set_74855-15362.jpg?w=740&t=st=1665306197~exp=1665306797~hmac=d97cb3aa913b508863350634c3edca59ec6e38aad58f1f8dfd79a05b1a396cae);
     height: 12rem;
@@ -129,6 +138,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
   .banner-img2 {
     background-image: url(https://img.freepik.com/free-vector/blog-main-page-template_53876-88255.jpg?w=740);
     height: 12rem;
@@ -137,6 +147,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
   .banner-img3 {
     background-image: url(https://img.freepik.com/free-psd/youtube-video-player-mockup-3d-style_204659-77.jpg?w=740);
     height: 12rem;
@@ -145,6 +156,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
   .banner-img4 {
     background-image: url(https://img.freepik.com/free-psd/weather-illustrations-app-template_145275-428.jpg?w=740&t=st=1665306653~exp=1665307253~hmac=a82f2dd11ace91ec7eade5e9a56f49967f643decc714fd42cf614dd1d373fa09);
     height: 12rem;
@@ -153,6 +165,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
   .banner-img5 {
     background-image: url(https://img.freepik.com/free-vector/organic-flat-blog-post-illustration-with-people_23-2148955260.jpg?w=740);
     height: 12rem;
@@ -161,8 +174,9 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
   .banner-img6 {
-    background-image: url(https://img.freepik.com/free-vector/friends-video-calling-spending-good-time_23-2148498387.jpg?w=740);
+    background-image: url(https://img.freepik.com/premium-vector/notification-new-email-mobile-phone-smartphone_183665-35.jpg?w=740);
     height: 12rem;
     width: 100%;
     background-position: center;
@@ -170,4 +184,3 @@
     background-size: cover;
   }
 }
-
