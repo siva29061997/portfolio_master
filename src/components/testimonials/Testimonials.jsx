@@ -84,7 +84,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("https://63b2757e402150200814c829--fancy-alfajores-21ebff.netlify.app/")
+                window.open("https://fancy-alfajores-21ebff.netlify.app/")
               }
             >
               View Site <IoMdOpen />
