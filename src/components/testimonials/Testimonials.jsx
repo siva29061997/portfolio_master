@@ -11,13 +11,13 @@ export default function Testimonials() {
         <div class="container">
           <div class="banner-img1"></div>
           <h1 class="name" style={{ color: "crimson" }}>
-            Netflix Clone
+            Admin crud app
           </h1>
           <div className="btn-cont">
             <button
               class="btn"
               onClick={() =>
-                window.open("https://github.com/siva29061997/netflix_clone_frontend")
+                window.open("https://github.com/siva29061997/admin-dashboard")
               }
             >
               Github FE <IoLogoGithub />
@@ -25,7 +25,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("https://incredible-hummingbird-4670ed.netlify.app")
+                window.open("https://fancy-flan-b146e9.netlify.app/")
               }
             >
               View Site <IoMdOpen />
@@ -33,15 +33,15 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("https://github.com/siva29061997/netflix_clone_backend")
+                window.open("https://github.com/siva29061997/first_nodejs-master")
               }
             >
               Github BE <IoLogoGithub />
             </button>
           </div>
           <p class="description">
-            This is Fullstack MERN website made it as a Netflix.
-            <br></br>This application is used to watch Movies and Series.
+            This is Fullstack MERN website made it as a crud app.
+            <br></br>This application is used to Admin analysed.
             <br />
           </p>
           <p>
@@ -70,13 +70,13 @@ export default function Testimonials() {
         <div class="container">
           <div class="banner-img"></div>
           <h1 class="name" style={{ color: "rgb(65, 201, 255)" }}>
-            E-Commerce
+            Web-Scraper
           </h1>
           <div className="btn-cont">
             <button
               class="btn"
               onClick={() =>
-                window.open("https://github.com/siva29061997/E-commerce-frontent")
+                window.open("https://github.com/siva29061997/webscraper-frontend")
               }
             >
               Github FE <IoLogoGithub />
@@ -84,7 +84,7 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("https://stately-medovik-aea808.netlify.app/")
+                window.open("https://63b2757e402150200814c829--fancy-alfajores-21ebff.netlify.app/")
               }
             >
               View Site <IoMdOpen />
@@ -92,15 +92,15 @@ export default function Testimonials() {
             <button
               class="btn"
               onClick={() =>
-                window.open("https://github.com/siva29061997/E-commerce-backent")
+                window.open("https://github.com/siva29061997/webscraper-backend")
               }
             >
               Github BE <IoLogoGithub />
             </button>
           </div>
           <p class="description">
-            This is Fullstack MERN website made it as a Ecommerce.<br></br>This
-            application is used to buy our products.
+            This is Fullstack MERN website made it as a Web Scraper.<br></br>This
+            application is used to Online products details.
           </p>
           <p>
             <span
